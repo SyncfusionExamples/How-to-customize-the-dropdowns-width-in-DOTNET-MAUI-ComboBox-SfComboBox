@@ -1,4 +1,4 @@
-﻿namespace DropdownwidthMaui
+﻿namespace DropdownWidthComboBox
 {
     public partial class AppShell : Shell
     {
